@@ -10,4 +10,4 @@ function getStudentIdsSum(students) {
   return sumIds;
 }
 
-export default getStudentIdsSum;:
+export default getStudentIdsSum;
